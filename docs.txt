@@ -1,0 +1,15 @@
+package:bmicalculation
+file: bmi_calculation
+class: BMICalculation
+
+Methods:
+get_bmi_report()
+    It will take json data will provide list of dict.
+process_bmi_list()
+    It'll work as previous method, but it'll take a list as a param.
+calculate_bmi()
+    It takes height and weight to calculate bmi.
+
+Variable:
+overweight_people_count
+    It sores count of overweight people
